@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Oxanium&subset=latin,latin-ext");
+
+body {
+  font-family: "Oxanium";
+}
+
+table {
+  width: 100%;
+}
+
+th,
+td {
+  min-width: initial;
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+code {
+  font-family: "Oxanium";
+  color: #0fff50;
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3 {
+  color: #f2f230;
+}
+
+h4 {
+  color: #fa5555;
+}
+
+b,
+strong {
+  color: #e949f5;
+  font-weight: normal;
+}
+
+a,
+a:visited {
+  color: #00ffff;
+}
+
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
+  color: #e949f5;
+}
+
+blockquote {
+  border-left: 2px solid #44434d !important;
+  padding-left: 0.5em !important;
+}
+
+.site-title {
+  color: #e949f5;
+}
