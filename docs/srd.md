@@ -98,6 +98,8 @@ Bags, backpacks, trolleys can increase the number of inventory slots, the same a
 > Example:
 > John takes a backpack into action, which increases the number of slots by 4. However, the backpack has to be worn on the back, so it takes up one place. In the end, therefore, John has increased the number of slots by 3. If he had opted for a trolley, which he has to pull with one hand, the item still takes up one slot. With a transport vehicle, automatic trolley, etc., the containers do not take up any slot.
 
+**Equipment capacity limit**: the maximum number of equipment slots cannot exceed the maximum level of the character's **BIO** ability.
+
 A PC cannot carry more items than their inventory allows. Anyone carrying a full inventory (i.e. filling **all available** slots) is reduced to **0 HP**.
 
 In addition to the starter equipment (purchased with initial credits), during character creation, each player can choose **any number of cybermodifications for free**, but the cost of these upgrades cannot exceed `20,000 ℂ`.
@@ -121,7 +123,7 @@ Anyone deprived for more than a day adds **Fatigue** to their inventory, one for
 Slots blocked by Fatigue cannot be used to carry equipment, if a player has to mark Fatigue on a slot already occupied by an item, that item must be put back or discarded. Any character who has **full inventory** (items and fatigue combined) is reduced to **0 HP**.
 The capacity of the equipment is also a certain measure of the character's endurance, a composite of physical fortitude and mental determination defined by the size of the luggage the character can carry.
 
-PCs can also gain Fatigue through events in the fiction or as an effect of certain actions (e.g. activation of some cybermodifications). 
+PCs can also gain Fatigue through events in the fiction or as an effect of certain actions (e.g. activation of some cybermodifications).
 
 **Stimulants**: it is possible to get rid of Fatigue by taking stimulants. To do so, the player consumes one dose of stimulant and rolls the **1d4**. The result indicates the number of spaces recovered in the inventory (by removing Fatigue).
 
@@ -218,7 +220,7 @@ Additionally, some enemies will have special abilities or effects that are trigg
 
 Any PC that suffers BIO critical damage cannot do anything but crawl weakly, hanging on to life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
-Any PC that suffers INF critical damage, becomes immobilised in the Infosphere (cannot move between nodes) or all its cyber modifications temporarily cease to function if it operates in the physical world.
+Any PC that suffers INF critical damage, becomes immobilised in the Infosphere (cannot move between nodes or disconnect from the network) or all its cyber modifications temporarily cease to function if it operates in the physical world.
 
 The **Black ICE** and **EMP weapons** have an additional critical damage effect: *"if the target has a neuroprocessor, inflict as many points of damage to the target's PSY as have been inflicted to INF this turn"*.
 
@@ -297,13 +299,13 @@ All other activities such as hacking, security, access to proprietary informatio
 
 **Lock**: Reducing a character's INF to zero means that they cannot use the Infosphere until they have regained at least one point of this ability.
 
-**Hacking**: Network nodes can have an HP level and an INF level specified. To access such a node (without the owner's permission), the player must reduce its HP to zero.  In order to do so, it is required to carry out attacks using the neuroprocessor. Once the HP is removed, the player takes control of the node for **as many rounds** as his **current INF level**.
+**Hacking**: Network nodes can have an HP level and an INF level specified. To access such a node (without the owner's permission), the player must reduce its HP to zero.  In order to do so, it is required to carry out attacks using the neuroprocessor. Once the HP is removed, the player takes control of the node for **as many rounds** as his **current INF level**. Simple electronic devices such such as cameras or doors, do not need to be controlled by a node (although they can if they are part of a larger system). In such a case, a passed Interface test is sufficient to take control.
 
 **Data destruction**: After reducing the node's HP to zero, the player can still perform the attack but this time will reduce the node's INF. Reducing a node's **INF to zero** means irrevocably **destroying the data or program** (unless its owner had a backup). Reducing a node's INF to values other than zero has no effect on the game.
 
 **Firewall**: Player characters can also actively protect Infosphere nodes. To do so, they must have the neuroprocessor and pass an INF test. Success means that this node is completely immune to hacking in the next turn.
 
-**Intrusion Countermeasures Electronics (ICE)**: Infosphere nodes can have automatic defense systems. This means they have an additional **ICE** factor expressed in **damage dice** (d4 to d12). Each round of hacking they make an attack on a character, reducing hacker's HP and INF. Hackers recognize the 'white' and 'black' ICE.
+**Intrusion Countermeasures Electronics (ICE)**: Infosphere nodes can have automatic defense systems. This means they have an additional **ICE** factor expressed in **damage dice** (d4 to d12).  In each round of hacking, the ICE makes an attack on the hacker's character, reducing its HP and then INF. Hackers recognize the 'white' and 'black' ICE.
 
 **Black ICE** (officially illegal), has an additional feature:
 - *Critical Damage*: inflict the same amount of damage to PSY that was inflicted to INF this turn.

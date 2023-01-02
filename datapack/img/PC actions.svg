@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentStyleType="text/css"
+   height="658px"
+   preserveAspectRatio="none"
+   style="width:599px;height:658px;background:#FFFFFF;"
+   version="1.1"
+   viewBox="0 0 599 658"
+   width="599px"
+   zoomAndPan="magnify"
+   id="svg229"
+   sodipodi:docname="Działania postaci dark.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview231"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4285714"
+     inkscape:cx="107.8"
+     inkscape:cy="266.00001"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g227" />
+  <defs
+     id="defs2" />
+  <g
+     id="g227">
+    <rect
+       fill="none"
+       height="27.4999"
+       id="_title"
+       style="stroke:none;stroke-width:1.0;"
+       width="123"
+       x="236.5"
+       y="15" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="14"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="113"
+       x="241.5"
+       y="34.5599"
+       id="text5"
+       style="fill:#ffff00">Działania postaci</text>
+    <ellipse
+       cx="376.875"
+       cy="58.4999"
+       fill="#0FFF50"
+       rx="10"
+       ry="10"
+       style="stroke:#222222;stroke-width:1.0;"
+       id="ellipse7" />
+    <rect
+       fill="#F1F1F1"
+       height="35.0001"
+       rx="12.5"
+       ry="12.5"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       width="175"
+       x="289.375"
+       y="88.4999"
+       id="rect9" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       lengthAdjust="spacing"
+       textLength="155"
+       x="299.375"
+       y="110.98"
+       id="text11">Gracz określa co chce zrobić</text>
+    <polygon
+       fill="#f1f1f1"
+       points="417.375,143.5 429.375,157.2499 417.375,170.9998 336.375,170.9998 324.375,157.2499 336.375,143.5 "
+       style="stroke:#2c84fa;stroke-width:0.5"
+       id="polygon13"
+       transform="matrix(1.0308262,0,0,1.3572388,-12.186062,-56.204409)" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="60"
+       x="336.375"
+       y="154.9399"
+       id="text15"
+       transform="translate(10.731006)">Jest ryzyko</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11"
+       lengthAdjust="spacing"
+       textLength="81"
+       x="336.375"
+       y="168.6898"
+       id="text17">niepowodzenia?</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="16"
+       x="308.375"
+       y="154.9399"
+       id="text19"
+       transform="translate(-60.932813,-0.76015625)"
+       style="fill:#ffff00">tak</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="15"
+       x="429.375"
+       y="154.9399"
+       id="text21"
+       transform="translate(57.208594,-2.7644531)"
+       style="fill:#ffff00">nie</text>
+    <path
+       d="M277.25,180.9998 L277.25,198.2498 L257.25,202.2498 L277.25,206.2498 L277.25,223.4999 A0,0 0 0 0 277.25,223.4999 L378.25,223.4999 A0,0 0 0 0 378.25,223.4999 L378.25,190.9998 L368.25,180.9998 L277.25,180.9998 A0,0 0 0 0 277.25,180.9998 "
+       fill="#FEFFDD"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path23" />
+    <path
+       d="M368.25,180.9998 L368.25,190.9998 L378.25,190.9998 L368.25,180.9998 "
+       fill="#FEFFDD"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path25" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="61"
+       x="283.25"
+       y="199.51981"
+       id="text27"
+       transform="translate(10.175998)">Aktywacja</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="80"
+       x="283.25"
+       y="215.7699"
+       id="text29">cybermodów</text>
+    <rect
+       fill="#F1F1F1"
+       height="35.0001"
+       rx="12.5"
+       ry="12.5"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       width="159"
+       x="98.25"
+       y="184.7498"
+       id="rect31" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       lengthAdjust="spacing"
+       textLength="139"
+       x="108.25"
+       y="207.2299"
+       id="text33">Zażądaj rzutu obronnego</text>
+    <polygon
+       fill="#f1f1f1"
+       points="241.75,243.4999 253.75,264.1247 241.75,284.7495 113.75,284.7495 101.75,264.1247 113.75,243.4999 "
+       style="stroke:#2c84fa;stroke-width:0.5"
+       id="polygon35"
+       transform="matrix(1.0657658,0,0,1.1303636,-11.689874,-34.432234)" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="125"
+       x="113.75"
+       y="254.9398"
+       id="text37"
+       transform="translate(0.879005)">okoliczności zewnętrzne</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="87"
+       x="119.75"
+       y="268.6897"
+       id="text39"
+       transform="translate(14)">zwiększające lub</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="116"
+       x="119.75"
+       y="282.43961"
+       id="text41"
+       transform="translate(-0.621004)">zmniejszające ryzyko?</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="15"
+       x="86.75"
+       y="261.8147"
+       id="text43"
+       transform="translate(-29.549023,-1.2810547)"
+       style="fill:#ffff00">nie</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="16"
+       x="253.75"
+       y="261.8147"
+       id="text45"
+       transform="translate(23.276367,-0.35)"
+       style="fill:#ffff00">tak</text>
+    <rect
+       fill="#F1F1F1"
+       height="35.0001"
+       rx="12.5"
+       ry="12.5"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       width="72"
+       x="11"
+       y="294.7495"
+       id="rect47" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       lengthAdjust="spacing"
+       textLength="52"
+       x="21"
+       y="317.2296"
+       id="text49">rzut 1k20</text>
+    <polygon
+       fill="#F1F1F1"
+       points="260,294.7495,357,294.7495,369,306.7495,357,318.7495,260,318.7495,248,306.7495,260,294.7495"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       id="polygon51" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11"
+       lengthAdjust="spacing"
+       textLength="97"
+       x="260"
+       y="311.3145"
+       id="text53">rodzaj okoliczności</text>
+    <rect
+       fill="#F1F1F1"
+       height="35.0001"
+       rx="12.5"
+       ry="12.5"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       width="192"
+       x="103"
+       y="356.2493"
+       id="rect55" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       lengthAdjust="spacing"
+       textLength="100"
+       x="113"
+       y="378.7294"
+       id="text57">rzut 2k20, wybierz</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="35"
+       x="216"
+       y="378.7294"
+       id="text59">niższy</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       lengthAdjust="spacing"
+       textLength="31"
+       x="254"
+       y="378.7294"
+       id="text61">wynik</text>
+    <rect
+       fill="#F1F1F1"
+       height="35.0001"
+       rx="12.5"
+       ry="12.5"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       width="199"
+       x="315"
+       y="356.2493"
+       id="rect63" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       lengthAdjust="spacing"
+       textLength="100"
+       x="325"
+       y="378.7294"
+       id="text65">rzut 2k20, wybierz</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="42"
+       x="428"
+       y="378.7294"
+       id="text67">wyższy</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       lengthAdjust="spacing"
+       textLength="31"
+       x="473"
+       y="378.7294"
+       id="text69">wynik</text>
+    <polygon
+       fill="#F1F1F1"
+       points="308.5,401.2494,308.5,401.2494,320.5,413.2494,308.5,425.2494,308.5,425.2494,296.5,413.2494,308.5,401.2494"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       id="polygon71" />
+    <polygon
+       fill="#F1F1F1"
+       points="177.75,431.2494,189.75,443.2494,177.75,455.2494,165.75,443.2494,177.75,431.2494"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       id="polygon73" />
+    <polygon
+       fill="#f1f1f1"
+       points="267.75,475.2494 279.75,488.9993 267.75,502.7492 87.75,502.7492 75.75,488.9993 87.75,475.2494 "
+       style="stroke:#2c84fa;stroke-width:0.5"
+       id="polygon75"
+       transform="matrix(1.043426,0,0,1.4535947,-7.7189744,-221.8075)" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="131"
+       x="87.75"
+       y="486.68939"
+       id="text77"
+       transform="translate(21.995313)">wynik <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Oxanium;-inkscape-font-specification:'Oxanium Semi-Bold'"
+   id="tspan848">mniejszy lub równy</tspan></text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11"
+       lengthAdjust="spacing"
+       textLength="174"
+       x="93.75"
+       y="500.4393"
+       id="text79">aktualnemu poziomowi zdolności?</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="16"
+       x="59.75"
+       y="486.68939"
+       id="text81"
+       transform="translate(-12.781836,10.609375)"
+       style="fill:#ffff00">tak</text>
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11px"
+       lengthAdjust="spacing"
+       textLength="15"
+       x="279.75"
+       y="486.68939"
+       id="text83"
+       transform="translate(17.268945,14.241992)"
+       style="fill:#ffff00">nie</text>
+    <rect
+       fill="#0FFF50"
+       height="35.0001"
+       rx="12.5"
+       ry="12.5"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       width="64"
+       x="33.75"
+       y="512.7492"
+       id="rect85" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="44"
+       x="43.75"
+       y="535.2293"
+       id="text87">SUKCES</text>
+    <rect
+       fill="#FF54FF"
+       height="35.0001"
+       rx="12.5"
+       ry="12.5"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       width="76"
+       x="251.75"
+       y="512.7492"
+       id="rect89" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="56"
+       x="261.75"
+       y="535.2293"
+       id="text91">PORAŻKA</text>
+    <polygon
+       fill="#F1F1F1"
+       points="177.75,553.7493,189.75,565.7493,177.75,577.7493,165.75,565.7493,177.75,553.7493"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       id="polygon93" />
+    <rect
+       fill="#0FFF50"
+       height="35.0001"
+       rx="12.5"
+       ry="12.5"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       width="64"
+       x="524"
+       y="180.9998"
+       id="rect95" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="12"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="44"
+       x="534"
+       y="203.4799"
+       id="text97">SUKCES</text>
+    <polygon
+       fill="#F1F1F1"
+       points="376.875,583.7493,388.875,595.7493,376.875,607.7493,364.875,595.7493,376.875,583.7493"
+       style="stroke:#2C84FA;stroke-width:0.5;"
+       id="polygon99" />
+    <ellipse
+       cx="376.875"
+       cy="637.7493"
+       fill="none"
+       rx="10"
+       ry="10"
+       style="stroke:#E949F5;stroke-width:1.5;"
+       id="ellipse101" />
+    <line
+       style="stroke:#E949F5;stroke-width:2.5;"
+       x1="370.6878"
+       x2="383.0622"
+       y1="631.5622"
+       y2="643.9365"
+       id="line103" />
+    <line
+       style="stroke:#E949F5;stroke-width:2.5;"
+       x1="383.0622"
+       x2="370.6878"
+       y1="631.5622"
+       y2="643.9365"
+       id="line105" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="376.875"
+       x2="376.875"
+       y1="68.4999"
+       y2="88.4999"
+       id="line107" />
+    <polygon
+       fill="#2C84FA"
+       points="372.875,78.4999,376.875,88.4999,380.875,78.4999,376.875,82.4999"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon109" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="248"
+       x2="199"
+       y1="306.7495"
+       y2="306.7495"
+       id="line111" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="199"
+       x2="199"
+       y1="306.7495"
+       y2="356.2493"
+       id="line113" />
+    <polygon
+       fill="#2C84FA"
+       points="195,346.2493,199,356.2493,203,346.2493,199,350.2493"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon115" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11"
+       lengthAdjust="spacing"
+       textLength="83"
+       x="202"
+       y="336.0644"
+       id="text117"
+       style="fill:#ffff00">mniejsze ryzyko</text>
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="369"
+       x2="414.5"
+       y1="306.7495"
+       y2="306.7495"
+       id="line119" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="414.5"
+       x2="414.5"
+       y1="306.7495"
+       y2="356.2493"
+       id="line121" />
+    <polygon
+       fill="#2C84FA"
+       points="410.5,346.2493,414.5,356.2493,418.5,346.2493,414.5,350.2493"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon123" />
+    <text
+       fill="#000000"
+       font-family="Oxanium"
+       font-size="11"
+       lengthAdjust="spacing"
+       textLength="79"
+       x="417.5"
+       y="336.0644"
+       id="text125"
+       style="fill:#ffff00">większe ryzyko</text>
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="199"
+       x2="199"
+       y1="391.2494"
+       y2="413.2494"
+       id="line127" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="199"
+       x2="296.5"
+       y1="413.2494"
+       y2="413.2494"
+       id="line129" />
+    <polygon
+       fill="#2C84FA"
+       points="286.5,409.2494,296.5,413.2494,286.5,417.2494,290.5,413.2494"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon131" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="414.5"
+       x2="414.5"
+       y1="391.2494"
+       y2="413.2494"
+       id="line133" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="414.5"
+       x2="320.5"
+       y1="413.2494"
+       y2="413.2494"
+       id="line135" />
+    <polygon
+       fill="#2C84FA"
+       points="330.5,409.2494,320.5,413.2494,330.5,417.2494,326.5,413.2494"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon137" />
+    <line
+       style="stroke:#2c84fa;stroke-width:0.950755;fill:#ffff00"
+       x1="96.490433"
+       x2="47"
+       y1="264.12469"
+       y2="264.12469"
+       id="line139" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="47"
+       x2="47"
+       y1="264.1247"
+       y2="294.7495"
+       id="line141" />
+    <polygon
+       fill="#2C84FA"
+       points="43,284.7495,47,294.7495,51,284.7495,47,288.7495"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon143" />
+    <line
+       style="stroke:#2c84fa;stroke-width:0.947229;fill:#ffff00"
+       x1="259.37598"
+       x2="308.5"
+       y1="264.12469"
+       y2="264.12469"
+       id="line145" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="308.5"
+       x2="308.5"
+       y1="264.1247"
+       y2="294.7495"
+       id="line147" />
+    <polygon
+       fill="#2C84FA"
+       points="304.5,284.7495,308.5,294.7495,312.5,284.7495,308.5,288.7495"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon149" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="47"
+       x2="47"
+       y1="329.7496"
+       y2="443.2494"
+       id="line151" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="47"
+       x2="165.75"
+       y1="443.2494"
+       y2="443.2494"
+       id="line153" />
+    <polygon
+       fill="#2C84FA"
+       points="155.75,439.2494,165.75,443.2494,155.75,447.2494,159.75,443.2494"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon155" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="308.5"
+       x2="308.5"
+       y1="425.2494"
+       y2="443.2494"
+       id="line157" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="308.5"
+       x2="189.75"
+       y1="443.2494"
+       y2="443.2494"
+       id="line159" />
+    <polygon
+       fill="#2C84FA"
+       points="199.75,439.2494,189.75,443.2494,199.75,447.2494,195.75,443.2494"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon161" />
+    <line
+       style="stroke:#2c84fa;stroke-width:0.88577"
+       x1="177.75"
+       x2="177.75"
+       y1="219.74989"
+       y2="238.38388"
+       id="line163" />
+    <polygon
+       fill="#2c84fa"
+       points="177.75,243.4999 181.75,233.4999 177.75,237.4999 173.75,233.4999 "
+       style="stroke:#2c84fa;stroke-width:1"
+       id="polygon165"
+       transform="translate(0,-2.7152344)" />
+    <line
+       style="stroke:#2c84fa;stroke-width:0.696307"
+       x1="70.598434"
+       x2="65.75"
+       y1="488.9993"
+       y2="488.9993"
+       id="line167" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="65.75"
+       x2="65.75"
+       y1="488.9993"
+       y2="512.7492"
+       id="line169" />
+    <polygon
+       fill="#2C84FA"
+       points="61.75,502.7492,65.75,512.7492,69.75,502.7492,65.75,506.7492"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon171" />
+    <line
+       style="stroke:#2c84fa;stroke-width:0.687315"
+       x1="285.02597"
+       x2="289.75"
+       y1="488.9993"
+       y2="488.9993"
+       id="line173" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="289.75"
+       x2="289.75"
+       y1="488.9993"
+       y2="512.7492"
+       id="line175" />
+    <polygon
+       fill="#2C84FA"
+       points="285.75,502.7492,289.75,512.7492,293.75,502.7492,289.75,506.7492"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon177" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="65.75"
+       x2="65.75"
+       y1="547.7493"
+       y2="565.7493"
+       id="line179" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="65.75"
+       x2="165.75"
+       y1="565.7493"
+       y2="565.7493"
+       id="line181" />
+    <polygon
+       fill="#2C84FA"
+       points="155.75,561.7493,165.75,565.7493,155.75,569.7493,159.75,565.7493"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon183" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="289.75"
+       x2="289.75"
+       y1="547.7493"
+       y2="565.7493"
+       id="line185" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="289.75"
+       x2="189.75"
+       y1="565.7493"
+       y2="565.7493"
+       id="line187" />
+    <polygon
+       fill="#2C84FA"
+       points="199.75,561.7493,189.75,565.7493,199.75,569.7493,195.75,565.7493"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon189" />
+    <line
+       style="stroke:#2c84fa;stroke-width:0.640949"
+       x1="177.75"
+       x2="177.75"
+       y1="455.24939"
+       y2="463.4657"
+       id="line191" />
+    <polygon
+       fill="#2c84fa"
+       points="177.75,469.2494 173.75,465.2494 177.75,475.2494 181.75,465.2494 "
+       style="stroke:#2c84fa;stroke-width:1"
+       id="polygon193"
+       transform="translate(0.02416869,-7.7649164)" />
+    <line
+       style="stroke:#2c84fa;stroke-width:0.989278"
+       x1="321.24756"
+       x2="177.75"
+       y1="157.24989"
+       y2="157.24989"
+       id="line195" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="177.75"
+       x2="177.75"
+       y1="157.2499"
+       y2="184.7498"
+       id="line197" />
+    <polygon
+       fill="#2C84FA"
+       points="173.75,174.7498,177.75,184.7498,181.75,174.7498,177.75,178.7498"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon199" />
+    <line
+       style="stroke:#2c84fa;stroke-width:0.991094"
+       x1="431.62042"
+       x2="556"
+       y1="157.24989"
+       y2="157.24989"
+       id="line201" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="556"
+       x2="556"
+       y1="157.2499"
+       y2="180.9998"
+       id="line203" />
+    <polygon
+       fill="#2C84FA"
+       points="552,170.9998,556,180.9998,560,170.9998,556,174.9998"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon205" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="177.75"
+       x2="177.75"
+       y1="577.7493"
+       y2="595.7493"
+       id="line207" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="177.75"
+       x2="364.875"
+       y1="595.7493"
+       y2="595.7493"
+       id="line209" />
+    <polygon
+       fill="#2C84FA"
+       points="354.875,591.7493,364.875,595.7493,354.875,599.7493,358.875,595.7493"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon211" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="556"
+       x2="556"
+       y1="215.9999"
+       y2="595.7493"
+       id="line213" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="556"
+       x2="388.875"
+       y1="595.7493"
+       y2="595.7493"
+       id="line215" />
+    <polygon
+       fill="#2C84FA"
+       points="398.875,591.7493,388.875,595.7493,398.875,599.7493,394.875,595.7493"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon217" />
+    <line
+       style="stroke:#2c84fa;stroke-width:0.777522"
+       x1="377.30157"
+       x2="377.30157"
+       y1="123.5"
+       y2="135.59082"
+       id="line219" />
+    <polygon
+       fill="#2c84fa"
+       points="376.875,143.5 380.875,133.5 376.875,137.5 372.875,133.5 "
+       style="stroke:#2c84fa;stroke-width:1"
+       id="polygon221"
+       transform="translate(0.17089844,-6.5037109)" />
+    <line
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       x1="376.875"
+       x2="376.875"
+       y1="607.7493"
+       y2="627.7493"
+       id="line223" />
+    <polygon
+       fill="#2C84FA"
+       points="372.875,617.7493,376.875,627.7493,380.875,617.7493,376.875,621.7493"
+       style="stroke:#2C84FA;stroke-width:1.0;"
+       id="polygon225" />
+    <!--MD5=[b09047d12ed7c4997b12ffca5269f08c]
+@startuml "Działania postaci"
+skinparam defaultFontName Oxanium
+skinparam activity {
+  StartColor #0fff50
+  BarColor #2c84fa
+  EndColor #e949f5
+  BorderColor #2c84fa
+  ArrowColor #2c84fa
+  FontName Oxanium
+}
+title "Działania postaci" 
+start
+:Gracz określa co chce zrobić;
+if (Jest ryzyko
+niepowodzenia?) then (tak)
+:Zażądaj rzutu obronnego;
+  note right
+   Aktywacja 
+   cybermodów
+  endnote
+  if (okoliczności zewnętrzne 
+  zwiększające lub
+  zmniejszające ryzyko?) then (nie)
+    :rzut 1k20;
+  else (tak)
+   switch (rodzaj okoliczności) 
+   case ( mniejsze ryzyko)
+   :rzut 2k20, wybierz **niższy** wynik;
+   case ( większe ryzyko)
+   :rzut 2k20, wybierz **wyższy** wynik;
+   endswitch
+  endif 
+  if (wynik mniejszy lub równy
+  aktualnemu poziomowi zdolności?) then (tak)
+  #0fff50 :**SUKCES**;
+  else (nie)
+  #ff54ff :**PORAŻKA**;
+  endif
+else (nie)
+#0fff50 :**SUKCES**;
+endif 
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: GB
+-->
+  </g>
+</svg>
