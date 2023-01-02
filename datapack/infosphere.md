@@ -281,7 +281,7 @@ If your hackers are breaking into Infosphere nodes to get their hands on valuabl
 
 ## Infosphere node attack
 
-![Infosphere attack](img/Infosphere%20attack%20.svg)
+![Infosphere attack](img/Infosphere%20attack.svg)
 
 ## ICE attack
 

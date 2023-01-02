@@ -1,1785 +1,581 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   contentStyleType="text/css"
-   height="1722px"
-   preserveAspectRatio="none"
-   style="width:684px;height:1722px;background:#FFFFFF;"
-   version="1.1"
-   viewBox="0 0 684 1722"
-   width="684px"
-   zoomAndPan="magnify"
-   id="svg447"
-   sodipodi:docname="Atak fizyczny dark.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview449"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="0.7719865"
-     inkscape:cx="308.29555"
-     inkscape:cy="510.37162"
-     inkscape:window-width="1366"
-     inkscape:window-height="699"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g445" />
-  <defs
-     id="defs2" />
-  <g
-     id="g445">
-    <rect
-       fill="none"
-       height="27.4999"
-       id="_title"
-       style="stroke:none;stroke-width:1.0;"
-       width="99"
-       x="291"
-       y="15" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="14"
-       font-weight="bold"
-       lengthAdjust="spacing"
-       textLength="89"
-       x="296"
-       y="34.5599"
-       id="text5"
-       style="fill:#ffff00">Atak fizyczny</text>
-    <ellipse
-       cx="343"
-       cy="58.4999"
-       fill="#0FFF50"
-       rx="10"
-       ry="10"
-       style="stroke:#222222;stroke-width:1.0;"
-       id="ellipse7" />
-    <rect
-       fill="none"
-       height="412.7502"
-       style="stroke:#000000;stroke-width:1.5;"
-       width="269"
-       x="214.5"
-       y="78.4999"
-       id="rect9" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  contentStyleType="text/css" height="1772px" preserveAspectRatio="none"
+  style="width:662px;height:1772px;background:transparent;" version="1.1" viewBox="0 0 662 1772"
+  width="662px" zoomAndPan="magnify">
+  <defs />
+  <g>
+    <rect fill="none" height="27.4999" id="_title" style="stroke:none;stroke-width:1.0;" width="111"
+      x="274.375" y="15" />
+    <text fill="#000000" font-family="Oxanium" font-size="14" font-weight="bold"
+      lengthAdjust="spacing" textLength="101" x="279.375" y="34.5599">Physical attack</text>
+    <ellipse cx="339.75" cy="58.4999" fill="#0FFF50" rx="10" ry="10"
+      style="stroke:#222222;stroke-width:1.0;" />
+    <rect fill="none" height="430.2501" style="stroke:#000000;stroke-width:1.5;" width="230"
+      x="230.75" y="78.4999" />
+    <path d="M330.75,78.4999 L330.75,123.9997 L320.75,133.9997 L230.75,133.9997 " fill="none"
+      style="stroke:#000000;stroke-width:1.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="14" lengthAdjust="spacing" textLength="68"
+      x="233.75" y="94.0599">Determine</text>
+    <text fill="#000000" font-family="Oxanium" font-size="14" lengthAdjust="spacing" textLength="90"
+      x="233.75" y="111.5598">the amount of</text>
+    <text fill="#000000" font-family="Oxanium" font-size="14" lengthAdjust="spacing" textLength="82"
+      x="233.75" y="129.0597">damage dice</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="189" x="245.25" y="150.9997" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="169" x="255.25" y="173.4798">one damage die as a standard</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="170" x="254.75" y="254.8747" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="150" x="264.75" y="277.3548">add a die for each attacker</text>
+    <polygon fill="#F1F1F1"
+      points="297.25,205.9998,382.25,205.9998,394.25,217.9998,382.25,229.9998,297.25,229.9998,285.25,217.9998,297.25,205.9998"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="346.75" y="241.4397">yes</text>
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="85"
+      x="297.25" y="222.5648">many attackers?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="397.25" y="215.6898">no</text>
+    <polygon fill="#F1F1F1"
+      points="339.75,309.8749,351.75,321.8749,339.75,333.8749,327.75,321.8749,339.75,309.8749"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="178" x="250.75" y="402.7498" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="100" x="260.75" y="425.2299">add a die for each</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="158" x="260.75" y="440.23">attacker with a dual weapon</text>
+    <polygon fill="#F1F1F1"
+      points="287.25,353.8749,392.25,353.8749,404.25,365.8749,392.25,377.8749,287.25,377.8749,275.25,365.8749,287.25,353.8749"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="346.75" y="389.3148">yes</text>
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="105" x="287.25" y="370.4398">dual-weapon attack?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="407.25" y="363.5649">no</text>
+    <polygon fill="#F1F1F1"
+      points="339.75,472.75,351.75,484.75,339.75,496.75,327.75,484.75,339.75,472.75"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <rect fill="none" height="404" style="stroke:#000000;stroke-width:1.5;" width="439.75"
+      x="192.25" y="518.75" />
+    <path d="M284.25,518.75 L284.25,564.2498 L274.25,574.2498 L192.25,574.2498 " fill="none"
+      style="stroke:#000000;stroke-width:1.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="14" lengthAdjust="spacing" textLength="68"
+      x="195.25" y="534.3099">Determine</text>
+    <text fill="#000000" font-family="Oxanium" font-size="14" lengthAdjust="spacing" textLength="68"
+      x="195.25" y="551.8099">the type of</text>
+    <text fill="#000000" font-family="Oxanium" font-size="14" lengthAdjust="spacing" textLength="82"
+      x="195.25" y="569.3098">damage dice</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="181" x="249.25" y="591.2498" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="161" x="259.25" y="613.7299">Individually for each attacker</text>
+    <polygon fill="#F1F1F1"
+      points="254.75,646.2499,424.75,646.2499,436.75,658.2499,424.75,670.2499,254.75,670.2499,242.75,658.2499,254.75,646.2499"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="170" x="254.75" y="662.8149">attack without a defined weapon?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="224.75" y="655.9399">yes</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="439.75" y="655.9399">no</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="41" x="212.25" y="680.2499" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="21"
+      x="222.25" y="702.73">1d4</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="139" x="377.25" y="680.2499" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="119" x="387.25" y="702.73">weapon damage dice</text>
+    <polygon fill="#F1F1F1"
+      points="408.25,735.25,485.25,735.25,497.25,747.25,485.25,759.25,408.25,759.25,396.25,747.25,408.25,735.25"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="77"
+      x="408.25" y="751.815">attack modifier</text>
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="145" x="281.5" y="796.7498" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="105" x="291.5" y="819.2299">1d4 or respectively</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      text-decoration="underline" textLength="58" x="291.5" y="834.23">decreased</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="64"
+      x="352.5" y="834.23">weapon die</text>
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="141" x="471" y="796.7498" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="112" x="481" y="819.2299">1d12 or respectively</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      text-decoration="underline" textLength="54" x="481" y="834.23">increased</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="64"
+      x="538" y="834.23">weapon die</text>
+    <polygon fill="#F1F1F1"
+      points="446.75,856.75,446.75,856.75,458.75,868.75,446.75,880.75,446.75,880.75,434.75,868.75,446.75,856.75"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <polygon fill="#F1F1F1"
+      points="339.75,886.75,351.75,898.75,339.75,910.75,327.75,898.75,339.75,886.75"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
     <path
-       d="M 314.68388,78.506075 V 106.49705 L 304.355,116.49386 H 214.49372"
-       fill="none"
-       style="stroke:#000000;stroke-width:1.52422"
-       id="path11" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="14"
-       lengthAdjust="spacing"
-       textLength="73"
-       x="217.5"
-       y="94.0599"
-       id="text13"
-       style="fill:#ffff00">Określ ilość</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="14"
-       lengthAdjust="spacing"
-       textLength="87"
-       x="217.5"
-       y="111.5598"
-       id="text15"
-       style="fill:#ffff00">kości obrażeń</text>
-    <rect
-       fill="#F1F1F1"
-       height="35.0001"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="203"
-       x="241.5"
-       y="133.4998"
-       id="rect17" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="183"
-       x="251.5"
-       y="155.9799"
-       id="text19">standardowo jedna kość obrażeń</text>
-    <rect
-       fill="#F1F1F1"
-       height="35.0001"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="217"
-       x="234.5"
-       y="237.3748"
-       id="rect21" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="197"
-       x="244.5"
-       y="259.8549"
-       id="text23">dodaj kość za każdego atakującego</text>
-    <polygon
-       fill="#F1F1F1"
-       points="294.5,188.4999,391.5,188.4999,403.5,200.4999,391.5,212.4999,294.5,212.4999,282.5,200.4999,294.5,188.4999"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon25" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="16"
-       x="347"
-       y="223.9398"
-       id="text27"
-       style="fill:#ffff00">tak</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="97"
-       x="294.5"
-       y="205.0648"
-       id="text29">wielu atakujących?</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="15"
-       x="403.5"
-       y="198.1899"
-       id="text31"
-       style="fill:#ffff00">nie</text>
-    <polygon
-       fill="#F1F1F1"
-       points="343,292.3749,355,304.3749,343,316.3749,331,304.3749,343,292.3749"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon33" />
-    <rect
-       fill="#F1F1F1"
-       height="50.0002"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="184"
-       x="251"
-       y="385.2499"
-       id="rect35" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="125"
-       x="261"
-       y="407.73"
-       id="text37">dodaj kość za każdego</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="164"
-       x="261"
-       y="422.7301"
-       id="text39">atakującego bronią podwójną</text>
-    <polygon
-       fill="#F1F1F1"
-       points="286.5,336.3749,399.5,336.3749,411.5,348.3749,399.5,360.3749,286.5,360.3749,274.5,348.3749,286.5,336.3749"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon41" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="16"
-       x="347"
-       y="371.8148"
-       id="text43"
-       style="fill:#ffff00">tak</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="113"
-       x="286.5"
-       y="352.9399"
-       id="text45">atak bronią podwójną?</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="15"
-       x="411.5"
-       y="346.0649"
-       id="text47"
-       style="fill:#ffff00">nie</text>
-    <polygon
-       fill="#F1F1F1"
-       points="343,455.2501,355,467.2501,343,479.2501,331,467.2501,343,455.2501"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon49" />
-    <rect
-       fill="none"
-       height="386.5001"
-       style="stroke:#000000;stroke-width:1.5;"
-       width="421.5"
-       x="202.625"
-       y="501.2501"
-       id="rect51" />
+      d="M412.75,947.125 L412.75,956.25 L392.75,960.25 L412.75,964.25 L412.75,973.3751 A0,0 0 0 0 412.75,973.3751 L612.75,973.3751 A0,0 0 0 0 612.75,973.3751 L612.75,957.125 L602.75,947.125 L412.75,947.125 A0,0 0 0 0 412.75,947.125 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <path d="M602.75,947.125 L602.75,957.125 L612.75,957.125 L602.75,947.125 " fill="#FEFFDD"
+      style="stroke:#181818;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing"
+      textLength="179" x="418.75" y="965.6451">Attacker cybermod activation</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="106" x="286.75" y="942.75" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="86"
+      x="296.75" y="965.2301">Make a dice roll</text>
+    <rect fill="#F1F1F1" height="65.0003" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="148" x="265.75" y="1046.625" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="128" x="275.75" y="1069.1051">repeat the damage roll</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="102" x="275.75" y="1084.1052">for each character</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="113" x="275.75" y="1099.1053">within striking range</text>
+    <polygon fill="#F1F1F1"
+      points="257.75,997.7501,421.75,997.7501,433.75,1009.7501,421.75,1021.7501,257.75,1021.7501,245.75,1009.7501,257.75,997.7501"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="346.75" y="1033.19">yes</text>
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="164" x="257.75" y="1014.3151">The weapon has a blast feature?</text>
+    <polygon fill="#F1F1F1"
+      points="339.75,1131.6254,351.75,1143.6254,339.75,1155.6254,327.75,1143.6254,339.75,1131.6254"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="155" x="262.25" y="1175.6254" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="135" x="272.25" y="1198.1055">Select the highest score</text>
+    <rect fill="#F1F1F1" height="65.0003" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="158" x="260.75" y="1230.6255" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="100" x="270.75" y="1253.1056">Substract victim's</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      text-decoration="underline" textLength="35" x="373.75" y="1253.1056">actual</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="66"
+      x="273.75" y="1268.1057">armor value</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="104" x="273.75" y="1283.1058">from the roll result</text>
     <path
-       d="M299.625,501.2501 L299.625,529.2499 L289.625,539.2499 L202.625,539.2499 "
-       fill="none"
-       style="stroke:#000000;stroke-width:1.5;"
-       id="path53" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="14"
-       lengthAdjust="spacing"
-       textLength="83"
-       x="205.625"
-       y="516.81"
-       id="text55"
-       style="fill:#ffff00">Określ rodzaj</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="14"
-       lengthAdjust="spacing"
-       textLength="87"
-       x="205.625"
-       y="534.3099"
-       id="text57"
-       style="fill:#ffff00">kości obrażeń</text>
-    <rect
-       fill="#F1F1F1"
-       height="35.0001"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="220"
-       x="233"
-       y="556.2499"
-       id="rect59" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="200"
-       x="243"
-       y="578.73"
-       id="text61">Oddzielnie dla każdego atakującego</text>
-    <polygon
-       fill="#F1F1F1"
-       points="277,611.25,409,611.25,421,623.25,409,635.25,277,635.25,265,623.25,277,611.25"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon63" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="132"
-       x="277"
-       y="627.815"
-       id="text65">atak bez określonej broni?</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="16"
-       x="249"
-       y="620.9401"
-       id="text67"
-       style="fill:#ffff00">tak</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="15"
-       x="421"
-       y="620.9401"
-       id="text69"
-       style="fill:#ffff00">nie</text>
-    <rect
-       fill="#F1F1F1"
-       height="35.0001"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="40"
-       x="222.625"
-       y="645.25"
-       id="rect71" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="20"
-       x="232.625"
-       y="667.7301"
-       id="text73">1k4</text>
-    <rect
-       fill="#F1F1F1"
-       height="35.0001"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="124"
-       x="381.375"
-       y="645.25"
-       id="rect75" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="104"
-       x="391.375"
-       y="667.7301"
-       id="text77">kość obrażeń broni</text>
-    <polygon
-       fill="#F1F1F1"
-       points="397.375,700.2501,489.375,700.2501,501.375,712.2501,489.375,724.2501,397.375,724.2501,385.375,712.2501,397.375,700.2501"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon79" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="92"
-       x="397.375"
-       y="716.8151"
-       id="text81">modyfikator ataku</text>
-    <rect
-       fill="#F1F1F1"
-       height="50.0002"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="149"
-       x="282.625"
-       y="761.7499"
-       id="rect83" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12px"
-       lengthAdjust="spacing"
-       textLength="114"
-       x="292.625"
-       y="784.22998"
-       id="text85"
-       transform="translate(7.2239992)">1k4 lub odpowiednio</text>
-    <g
-       id="g1071">
-      <text
-         fill="#000000"
-         font-family="Oxanium"
-         font-size="12"
-         lengthAdjust="spacing"
-         text-decoration="underline"
-         textLength="70"
-         x="292.625"
-         y="799.2301"
-         id="text87">zmniejszona</text>
-      <text
-         fill="#000000"
-         font-family="Oxanium"
-         font-size="12"
-         lengthAdjust="spacing"
-         textLength="56"
-         x="365.625"
-         y="799.2301"
-         id="text89">kość broni</text>
-    </g>
-    <rect
-       fill="#F1F1F1"
-       height="50.0002"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="143"
-       x="461.125"
-       y="761.7499"
-       id="rect91" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="121"
-       x="471.125"
-       y="784.23"
-       id="text93">1k12 lub odpowiednio</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       text-decoration="underline"
-       textLength="64"
-       x="471.125"
-       y="799.2301"
-       id="text95">zwiększona</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="56"
-       x="538.125"
-       y="799.2301"
-       id="text97">kość broni</text>
-    <polygon
-       fill="#F1F1F1"
-       points="443.375,821.7501,443.375,821.7501,455.375,833.7501,443.375,845.7501,443.375,845.7501,431.375,833.7501,443.375,821.7501"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon99" />
-    <polygon
-       fill="#F1F1F1"
-       points="343,851.7501,355,863.7501,343,875.7501,331,863.7501,343,851.7501"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon101" />
+      d="M469.75,1368.2508 L469.75,1385.5008 L449.75,1389.5008 L469.75,1393.5008 L469.75,1410.7509 A0,0 0 0 0 469.75,1410.7509 L626.75,1410.7509 A0,0 0 0 0 626.75,1410.7509 L626.75,1378.2508 L616.75,1368.2508 L469.75,1368.2508 A0,0 0 0 0 469.75,1368.2508 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <path d="M616.75,1368.2508 L616.75,1378.2508 L626.75,1378.2508 L616.75,1368.2508 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing"
+      textLength="136" x="475.75" y="1386.7708">Oponnent's cybermod</text>
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing" textLength="60"
+      x="475.75" y="1403.0209">activation</text>
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="220" x="229.75" y="1364.5007" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="157" x="239.75" y="1386.9808">Subtract the damage points</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="49"
+      x="239.75" y="1401.9809">from the</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      text-decoration="underline" textLength="35" x="291.75" y="1401.9809">actual</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="110" x="329.75" y="1401.9809">HP of the opponent</text>
+    <polygon fill="#F1F1F1"
+      points="234.75,1315.6258,444.75,1315.6258,456.75,1327.6258,444.75,1339.6258,234.75,1339.6258,222.75,1327.6258,234.75,1315.6258"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="346.75" y="1351.0657">no</text>
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="210" x="234.75" y="1332.1907">Opponent's HP less than or equal to zero?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="459.75" y="1325.3158">yes</text>
+    <polygon fill="#F1F1F1"
+      points="339.75,1434.5009,351.75,1446.5009,339.75,1458.5009,327.75,1446.5009,339.75,1434.5009"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <polygon fill="#F1F1F1"
+      points="195.25,1478.5009,484.25,1478.5009,496.25,1490.5009,484.25,1502.5009,195.25,1502.5009,183.25,1490.5009,195.25,1478.5009"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="289" x="195.25" y="1495.0659">number of remaining points of damage greater than
+      zero?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="165.25" y="1488.191">yes</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="499.25" y="1488.191">no</text>
     <path
-       d="M430,912.1252 L430,921.2502 L410,925.2502 L430,929.2502 L430,938.3752 A0,0 0 0 0 430,938.3752 L672,938.3752 A0,0 0 0 0 672,938.3752 L672,922.1252 L662,912.1252 L430,912.1252 A0,0 0 0 0 430,912.1252 "
-       fill="#FEFFDD"
-       style="stroke:#181818;stroke-width:0.5;"
-       id="path103" />
+      d="M328,1516.251 L328,1533.501 L308,1537.501 L328,1541.501 L328,1558.7511 A0,0 0 0 0 328,1558.7511 L485,1558.7511 A0,0 0 0 0 485,1558.7511 L485,1526.251 L475,1516.251 L328,1516.251 A0,0 0 0 0 328,1516.251 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <path d="M475,1516.251 L475,1526.251 L485,1526.251 L475,1516.251 " fill="#FEFFDD"
+      style="stroke:#181818;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing"
+      textLength="136" x="334" y="1534.771">Oponnent's cybermod</text>
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing" textLength="60"
+      x="334" y="1551.0211">activation</text>
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="297" x="11" y="1512.5009" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="277" x="21" y="1534.981">subtract the remaining amount of damage points</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="142" x="21" y="1549.9811">from your opponent's BIO</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="191" x="64" y="1582.5012" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="171" x="74" y="1604.9812">Perform a critical damage test</text>
+    <polygon fill="#F1F1F1"
+      points="125.5,1637.5013,193.5,1637.5013,205.5,1649.5013,193.5,1661.5013,125.5,1661.5013,113.5,1649.5013,125.5,1637.5013"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="68"
+      x="125.5" y="1654.0662">Test passed?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="95.5" y="1647.1913">yes</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="208.5" y="1647.1913">no</text>
+    <ellipse cx="103.5" cy="1681.5013" fill="none" rx="10" ry="10"
+      style="stroke:#E949F5;stroke-width:1.5;" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="97.3128" x2="109.6872" y1="1675.3141"
+      y2="1687.6884" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="109.6872" x2="97.3128" y1="1675.3141"
+      y2="1687.6884" />
     <path
-       d="M662,912.1252 L662,922.1252 L672,922.1252 L662,912.1252 "
-       fill="#FEFFDD"
-       style="stroke:#181818;stroke-width:0.5;"
-       id="path105" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="13"
-       lengthAdjust="spacing"
-       textLength="221"
-       x="436"
-       y="930.6452"
-       id="text107">Aktywacja cybermodów atakującego</text>
-    <rect
-       fill="#F1F1F1"
-       height="35.0001"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="134"
-       x="276"
-       y="907.7501"
-       id="rect109" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="114"
-       x="286"
-       y="930.2302"
-       id="text111">Wykonaj rzut kośćmi</text>
-    <rect
-       fill="#F1F1F1"
-       height="65.0003"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="165"
-       x="260.5"
-       y="1011.6252"
-       id="rect113" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="145"
-       x="270.5"
-       y="1034.1053"
-       id="text115">powtórz rzut na obrażenia</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12px"
-       lengthAdjust="spacing"
-       textLength="100"
-       x="270.5"
-       y="1049.1053"
-       id="text117"
-       transform="translate(22.547992)">dla każdej postaci</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12px"
-       lengthAdjust="spacing"
-       textLength="99"
-       x="270.5"
-       y="1064.1055"
-       id="text119"
-       transform="translate(23.335992)">w zasięgu rażenia</text>
-    <polygon
-       fill="#F1F1F1"
-       points="278.5,962.7503,407.5,962.7503,419.5,974.7503,407.5,986.7503,278.5,986.7503,266.5,974.7503,278.5,962.7503"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon121" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="16"
-       x="347"
-       y="998.1902"
-       id="text123"
-       style="fill:#ffff00">tak</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="129"
-       x="278.5"
-       y="979.3152"
-       id="text125">broń ma cechę podmuch?</text>
-    <polygon
-       fill="#F1F1F1"
-       points="343,1096.6255,355,1108.6255,343,1120.6255,331,1108.6255,343,1096.6255"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon127" />
-    <rect
-       fill="#F1F1F1"
-       height="35.0001"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="157"
-       x="264.5"
-       y="1140.6255"
-       id="rect129" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="137"
-       x="274.5"
-       y="1163.1056"
-       id="text131">Wybierz najwyższy wynik</text>
-    <rect
-       fill="#F1F1F1"
-       height="50.0002"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="217"
-       x="234.5"
-       y="1195.6256"
-       id="rect133" />
-    <g
-       id="g1067">
-      <text
-         fill="#000000"
-         font-family="Oxanium"
-         font-size="12"
-         lengthAdjust="spacing"
-         textLength="145"
-         x="244.5"
-         y="1218.1057"
-         id="text135">Od rezultatu rzutu odejmij</text>
-      <text
-         fill="#000000"
-         font-family="Oxanium"
-         font-size="12"
-         lengthAdjust="spacing"
-         text-decoration="underline"
-         textLength="49"
-         x="392.5"
-         y="1218.1057"
-         id="text137">aktualną</text>
-    </g>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12px"
-       lengthAdjust="spacing"
-       textLength="166"
-       x="244.5"
-       y="1233.1058"
-       id="text139"
-       transform="translate(15.836)">wartość pancerza przeciwnika</text>
-    <path
-       d="M458.5,1318.2509 L458.5,1335.5009 L438.5,1339.5009 L458.5,1343.5009 L458.5,1360.7509 A0,0 0 0 0 458.5,1360.7509 L623.5,1360.7509 A0,0 0 0 0 623.5,1360.7509 L623.5,1328.2509 L613.5,1318.2509 L458.5,1318.2509 A0,0 0 0 0 458.5,1318.2509 "
-       fill="#FEFFDD"
-       style="stroke:#181818;stroke-width:0.5;"
-       id="path141" />
-    <path
-       d="M613.5,1318.2509 L613.5,1328.2509 L623.5,1328.2509 L613.5,1318.2509 "
-       fill="#FEFFDD"
-       style="stroke:#181818;stroke-width:0.5;"
-       id="path143" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="13"
-       lengthAdjust="spacing"
-       textLength="144"
-       x="464.5"
-       y="1336.7709"
-       id="text145">Aktywacja cybermodów</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="13px"
-       lengthAdjust="spacing"
-       textLength="72"
-       x="464.5"
-       y="1353.0209"
-       id="text147"
-       transform="translate(35.948002)">przeciwnika</text>
-    <rect
-       fill="#F1F1F1"
-       height="50.0002"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="191"
-       x="247.5"
-       y="1314.5008"
-       id="rect149" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12px"
-       lengthAdjust="spacing"
-       textLength="131"
-       x="257.5"
-       y="1336.981"
-       id="text151"
-       transform="translate(19.951992)">Odejmij punkty obrażeń</text>
-    <g
-       id="g735">
-      <text
-         fill="#000000"
-         font-family="Oxanium"
-         font-size="12"
-         lengthAdjust="spacing"
-         textLength="14"
-         x="257.5"
-         y="1351.981"
-         id="text153">od</text>
-      <text
-         fill="#000000"
-         font-family="Oxanium"
-         font-size="12"
-         lengthAdjust="spacing"
-         text-decoration="underline"
-         textLength="52"
-         x="274.5"
-         y="1351.981"
-         id="text155">aktualnej</text>
-      <text
-         fill="#000000"
-         font-family="Oxanium"
-         font-size="12"
-         lengthAdjust="spacing"
-         textLength="99"
-         x="329.5"
-         y="1351.981"
-         id="text157">OCHR przeciwnika</text>
-    </g>
-    <polygon
-       fill="#F1F1F1"
-       points="230,1265.6258,456,1265.6258,468,1277.6258,456,1289.6258,230,1289.6258,218,1277.6258,230,1265.6258"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon159" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="15"
-       x="347"
-       y="1301.0657"
-       id="text161"
-       style="fill:#ffff00">nie</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="226"
-       x="230"
-       y="1282.1908"
-       id="text163">OCHR przeciwnika mniejsza lub równa zero?</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="16"
-       x="468"
-       y="1275.3158"
-       id="text165"
-       style="fill:#ffff00">tak</text>
-    <polygon
-       fill="#F1F1F1"
-       points="343,1384.501,355,1396.501,343,1408.501,331,1396.501,343,1384.501"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon167" />
-    <polygon
-       fill="#F1F1F1"
-       points="209,1428.501,477,1428.501,489,1440.501,477,1452.501,209,1452.501,197,1440.501,209,1428.501"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon169" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="268"
-       x="209"
-       y="1445.066"
-       id="text171">ilość pozostałych punktów obrażeń większa od zera?</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="16"
-       x="181"
-       y="1438.191"
-       id="text173"
-       style="fill:#ffff00">tak</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="15"
-       x="489"
-       y="1438.191"
-       id="text175"
-       style="fill:#ffff00">nie</text>
-    <path
-       d="M277,1474.3761 L277,1483.5011 L257,1487.5011 L277,1491.5011 L277,1500.6261 A0,0 0 0 0 277,1500.6261 L517,1500.6261 A0,0 0 0 0 517,1500.6261 L517,1484.3761 L507,1474.3761 L277,1474.3761 A0,0 0 0 0 277,1474.3761 "
-       fill="#FEFFDD"
-       style="stroke:#181818;stroke-width:0.5;"
-       id="path177" />
-    <path
-       d="M507,1474.3761 L507,1484.3761 L517,1484.3761 L507,1474.3761 "
-       fill="#FEFFDD"
-       style="stroke:#181818;stroke-width:0.5;"
-       id="path179" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="13"
-       lengthAdjust="spacing"
-       textLength="219"
-       x="283"
-       y="1492.8961"
-       id="text181">Aktywacja cybermodów przeciwnika</text>
-    <rect
-       fill="#F1F1F1"
-       height="50.0002"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="246"
-       x="11"
-       y="1462.501"
-       id="rect183" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="226"
-       x="21"
-       y="1484.9811"
-       id="text185">odejmij pozostałą ilość punktów obrażeń</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12px"
-       lengthAdjust="spacing"
-       textLength="104"
-       x="21"
-       y="1499.9812"
-       id="text187"
-       transform="translate(61.000008)">od BIO przeciwnika</text>
-    <rect
-       fill="#F1F1F1"
-       height="35.0001"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="224"
-       x="22"
-       y="1532.5012"
-       id="rect189" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="204"
-       x="32"
-       y="1554.9813"
-       id="text191">Wykonaj test na obrażenia krytyczne</text>
-    <polygon
-       fill="#F1F1F1"
-       points="104.5,1587.5013,163.5,1587.5013,175.5,1599.5013,163.5,1611.5013,104.5,1611.5013,92.5,1599.5013,104.5,1587.5013"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       id="polygon193" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="59"
-       x="104.5"
-       y="1604.0663"
-       id="text195">test zdany?</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="16"
-       x="76.5"
-       y="1597.1913"
-       id="text197"
-       style="fill:#ffff00">tak</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="15"
-       x="175.5"
-       y="1597.1913"
-       id="text199"
-       style="fill:#ffff00">nie</text>
-    <ellipse
-       cx="75.75"
-       cy="1631.5013"
-       fill="none"
-       rx="10"
-       ry="10"
-       style="stroke:#E949F5;stroke-width:1.5;"
-       id="ellipse201" />
-    <line
-       style="stroke:#E949F5;stroke-width:2.5;"
-       x1="69.5628"
-       x2="81.9372"
-       y1="1625.3141"
-       y2="1637.6885"
-       id="line203" />
-    <line
-       style="stroke:#E949F5;stroke-width:2.5;"
-       x1="81.9372"
-       x2="69.5628"
-       y1="1625.3141"
-       y2="1637.6885"
-       id="line205" />
-    <path
-       d="M293.75,1625.2514 L293.75,1642.5014 L273.75,1646.5014 L293.75,1650.5014 L293.75,1667.7514 A0,0 0 0 0 293.75,1667.7514 L394.75,1667.7514 A0,0 0 0 0 394.75,1667.7514 L394.75,1635.2514 L384.75,1625.2514 L293.75,1625.2514 A0,0 0 0 0 293.75,1625.2514 "
-       fill="#FEFFDD"
-       style="stroke:#181818;stroke-width:0.5;"
-       id="path207" />
-    <path
-       d="M384.75,1625.2514 L384.75,1635.2514 L394.75,1635.2514 L384.75,1625.2514 "
-       fill="#FEFFDD"
-       style="stroke:#181818;stroke-width:0.5;"
-       id="path209" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="13px"
-       lengthAdjust="spacing"
-       textLength="61"
-       x="299.75"
-       y="1643.7714"
-       id="text211"
-       transform="translate(10.175998)">Aktywacja</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="13"
-       lengthAdjust="spacing"
-       textLength="80"
-       x="299.75"
-       y="1660.0214"
-       id="text213">cybermodów</text>
-    <rect
-       fill="#F1F1F1"
-       height="50.0002"
-       rx="12.5"
-       ry="12.5"
-       style="stroke:#2C84FA;stroke-width:0.5;"
-       width="163"
-       x="110.75"
-       y="1621.5013"
-       id="rect215" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12"
-       lengthAdjust="spacing"
-       textLength="143"
-       x="120.75"
-       y="1643.9814"
-       id="text217">zastosuj wszystkie efekty</text>
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="12px"
-       lengthAdjust="spacing"
-       textLength="113"
-       x="120.75"
-       y="1658.9814"
-       id="text219"
-       transform="translate(15.203996)">obrażeń krytycznych</text>
-    <ellipse
-       cx="552"
-       cy="1472.501"
-       fill="none"
-       rx="10"
-       ry="10"
-       style="stroke:#E949F5;stroke-width:1.5;"
-       id="ellipse221" />
-    <line
-       style="stroke:#E949F5;stroke-width:2.5;"
-       x1="545.8128"
-       x2="558.1872"
-       y1="1466.3138"
-       y2="1478.6882"
-       id="line223" />
-    <line
-       style="stroke:#E949F5;stroke-width:2.5;"
-       x1="558.1872"
-       x2="545.8128"
-       y1="1466.3138"
-       y2="1478.6882"
-       id="line225" />
-    <ellipse
-       cx="343"
-       cy="1701.5015"
-       fill="none"
-       rx="10"
-       ry="10"
-       style="stroke:#E949F5;stroke-width:1.5;"
-       id="ellipse227" />
-    <line
-       style="stroke:#E949F5;stroke-width:2.5;"
-       x1="336.8128"
-       x2="349.1872"
-       y1="1695.3143"
-       y2="1707.6887"
-       id="line229" />
-    <line
-       style="stroke:#E949F5;stroke-width:2.5;"
-       x1="349.1872"
-       x2="336.8128"
-       y1="1695.3143"
-       y2="1707.6887"
-       id="line231" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="212.4999"
-       y2="237.3748"
-       id="line233" />
-    <polygon
-       fill="#2C84FA"
-       points="339,227.3748,343,237.3748,347,227.3748,343,231.3748"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon235" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="403.5"
-       x2="461.5"
-       y1="200.4999"
-       y2="200.4999"
-       id="line237" />
-    <polygon
-       fill="#2C84FA"
-       points="457.5,244.8749,461.5,254.8749,465.5,244.8749,461.5,248.8749"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon239" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="461.5"
-       x2="461.5"
-       y1="200.4999"
-       y2="304.3749"
-       id="line241" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="461.5"
-       x2="355"
-       y1="304.3749"
-       y2="304.3749"
-       id="line243" />
-    <polygon
-       fill="#2C84FA"
-       points="365,300.3749,355,304.3749,365,308.3749,361,304.3749"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon245" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="272.3749"
-       y2="292.3749"
-       id="line247" />
-    <polygon
-       fill="#2C84FA"
-       points="339,282.3749,343,292.3749,347,282.3749,343,286.3749"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon249" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="168.4999"
-       y2="188.4999"
-       id="line251" />
-    <polygon
-       fill="#2C84FA"
-       points="339,178.4999,343,188.4999,347,178.4999,343,182.4999"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon253" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="360.3749"
-       y2="385.2499"
-       id="line255" />
-    <polygon
-       fill="#2C84FA"
-       points="339,375.2499,343,385.2499,347,375.2499,343,379.2499"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon257" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="411.5"
-       x2="445"
-       y1="348.3749"
-       y2="348.3749"
-       id="line259" />
-    <polygon
-       fill="#2C84FA"
-       points="441,400.25,445,410.25,449,400.25,445,404.25"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon261" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="445"
-       x2="445"
-       y1="348.3749"
-       y2="467.2501"
-       id="line263" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="445"
-       x2="355"
-       y1="467.2501"
-       y2="467.2501"
-       id="line265" />
-    <polygon
-       fill="#2C84FA"
-       points="365,463.2501,355,467.2501,365,471.2501,361,467.2501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon267" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="435.2501"
-       y2="455.2501"
-       id="line269" />
-    <polygon
-       fill="#2C84FA"
-       points="339,445.2501,343,455.2501,347,445.2501,343,449.2501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon271" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="316.3749"
-       y2="336.3749"
-       id="line273" />
-    <polygon
-       fill="#2C84FA"
-       points="339,326.3749,343,336.3749,347,326.3749,343,330.3749"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon275" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="68.4999"
-       y2="133.4998"
-       id="line277" />
-    <polygon
-       fill="#2C84FA"
-       points="339,123.4998,343,133.4998,347,123.4998,343,127.4998"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon279" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="385.375"
-       x2="357.125"
-       y1="712.2501"
-       y2="712.2501"
-       id="line281" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="357.125"
-       x2="357.125"
-       y1="712.2501"
-       y2="761.7499"
-       id="line283" />
-    <polygon
-       fill="#2C84FA"
-       points="353.125,751.7499,357.125,761.7499,361.125,751.7499,357.125,755.7499"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon285" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="81"
-       x="360.125"
-       y="741.565"
-       id="text287"
-       style="fill:#ffff00">słabsza pozycja</text>
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="501.375"
-       x2="532.625"
-       y1="712.2501"
-       y2="712.2501"
-       id="line289" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="532.625"
-       x2="532.625"
-       y1="712.2501"
-       y2="761.7499"
-       id="line291" />
-    <polygon
-       fill="#2C84FA"
-       points="528.625,751.7499,532.625,761.7499,536.625,751.7499,532.625,755.7499"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon293" />
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11"
-       lengthAdjust="spacing"
-       textLength="49"
-       x="535.625"
-       y="741.565"
-       id="text295"
-       style="fill:#ffff00">przewaga</text>
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="357.125"
-       x2="357.125"
-       y1="811.7501"
-       y2="833.7501"
-       id="line297" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="357.125"
-       x2="431.375"
-       y1="833.7501"
-       y2="833.7501"
-       id="line299" />
-    <polygon
-       fill="#2C84FA"
-       points="421.375,829.7501,431.375,833.7501,421.375,837.7501,425.375,833.7501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon301" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="532.625"
-       x2="532.625"
-       y1="811.7501"
-       y2="833.7501"
-       id="line303" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="532.625"
-       x2="455.375"
-       y1="833.7501"
-       y2="833.7501"
-       id="line305" />
-    <polygon
-       fill="#2C84FA"
-       points="465.375,829.7501,455.375,833.7501,465.375,837.7501,461.375,833.7501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon307" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="443.375"
-       x2="443.375"
-       y1="680.2501"
-       y2="700.2501"
-       id="line309" />
-    <polygon
-       fill="#2C84FA"
-       points="439.375,690.2501,443.375,700.2501,447.375,690.2501,443.375,694.2501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon311" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="265"
-       x2="242.625"
-       y1="623.25"
-       y2="623.25"
-       id="line313" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="242.625"
-       x2="242.625"
-       y1="623.25"
-       y2="645.25"
-       id="line315" />
-    <polygon
-       fill="#2C84FA"
-       points="238.625,635.25,242.625,645.25,246.625,635.25,242.625,639.25"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon317" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1;fill:#ffff00"
-       x1="421"
-       x2="443.375"
-       y1="623.25"
-       y2="623.25"
-       id="line319" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="443.375"
-       x2="443.375"
-       y1="623.25"
-       y2="645.25"
-       id="line321" />
-    <polygon
-       fill="#2C84FA"
-       points="439.375,635.25,443.375,645.25,447.375,635.25,443.375,639.25"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon323" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="242.625"
-       x2="242.625"
-       y1="680.2501"
-       y2="863.7501"
-       id="line325" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="242.625"
-       x2="331"
-       y1="863.7501"
-       y2="863.7501"
-       id="line327" />
-    <polygon
-       fill="#2C84FA"
-       points="321,859.7501,331,863.7501,321,867.7501,325,863.7501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon329" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="443.375"
-       x2="443.375"
-       y1="845.7501"
-       y2="863.7501"
-       id="line331" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="443.375"
-       x2="355"
-       y1="863.7501"
-       y2="863.7501"
-       id="line333" />
-    <polygon
-       fill="#2C84FA"
-       points="365,859.7501,355,863.7501,365,867.7501,361,863.7501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon335" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="591.25"
-       y2="611.25"
-       id="line337" />
-    <polygon
-       fill="#2C84FA"
-       points="339,601.25,343,611.25,347,601.25,343,605.25"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon339" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="479.2501"
-       y2="556.2499"
-       id="line341" />
-    <polygon
-       fill="#2C84FA"
-       points="339,546.2499,343,556.2499,347,546.2499,343,550.2499"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon343" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="875.7501"
-       y2="907.7501"
-       id="line345" />
-    <polygon
-       fill="#2C84FA"
-       points="339,897.7501,343,907.7501,347,897.7501,343,901.7501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon347" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="986.7503"
-       y2="1011.6252"
-       id="line349" />
-    <polygon
-       fill="#2C84FA"
-       points="339,1001.6252,343,1011.6252,347,1001.6252,343,1005.6252"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon351" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="419.5"
-       x2="435.5"
-       y1="974.7503"
-       y2="974.7503"
-       id="line353" />
-    <polygon
-       fill="#2C84FA"
-       points="431.5,1034.1254,435.5,1044.1254,439.5,1034.1254,435.5,1038.1254"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon355" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="435.5"
-       x2="435.5"
-       y1="974.7503"
-       y2="1108.6255"
-       id="line357" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="435.5"
-       x2="355"
-       y1="1108.6255"
-       y2="1108.6255"
-       id="line359" />
-    <polygon
-       fill="#2C84FA"
-       points="365,1104.6255,355,1108.6255,365,1112.6255,361,1108.6255"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon361" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="1076.6255"
-       y2="1096.6255"
-       id="line363" />
-    <polygon
-       fill="#2C84FA"
-       points="339,1086.6255,343,1096.6255,347,1086.6255,343,1090.6255"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon365" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="942.7503"
-       y2="962.7503"
-       id="line367" />
-    <polygon
-       fill="#2C84FA"
-       points="339,952.7503,343,962.7503,347,952.7503,343,956.7503"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon369" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="1120.6255"
-       y2="1140.6255"
-       id="line371" />
-    <polygon
-       fill="#2C84FA"
-       points="339,1130.6255,343,1140.6255,347,1130.6255,343,1134.6255"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon373" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="1175.6256"
-       y2="1195.6256"
-       id="line375" />
-    <polygon
-       fill="#2C84FA"
-       points="339,1185.6256,343,1195.6256,347,1185.6256,343,1189.6256"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon377" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="1289.6258"
-       y2="1314.5008"
-       id="line379" />
-    <polygon
-       fill="#2C84FA"
-       points="339,1304.5008,343,1314.5008,347,1304.5008,343,1308.5008"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon381" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="468"
-       x2="633.5"
-       y1="1277.6258"
-       y2="1277.6258"
-       id="line383" />
-    <polygon
-       fill="#2C84FA"
-       points="629.5,1329.5009,633.5,1339.5009,637.5,1329.5009,633.5,1333.5009"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon385" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="633.5"
-       x2="633.5"
-       y1="1277.6258"
-       y2="1396.501"
-       id="line387" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="633.5"
-       x2="355"
-       y1="1396.501"
-       y2="1396.501"
-       id="line389" />
-    <polygon
-       fill="#2C84FA"
-       points="365,1392.501,355,1396.501,365,1400.501,361,1396.501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon391" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="1364.501"
-       y2="1384.501"
-       id="line393" />
-    <polygon
-       fill="#2C84FA"
-       points="339,1374.501,343,1384.501,347,1374.501,343,1378.501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon395" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="1245.6258"
-       y2="1265.6258"
-       id="line397" />
-    <polygon
-       fill="#2C84FA"
-       points="339,1255.6258,343,1265.6258,347,1255.6258,343,1259.6258"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon399" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="134"
-       x2="134"
-       y1="1512.5012"
-       y2="1532.5012"
-       id="line401" />
-    <polygon
-       fill="#2C84FA"
-       points="130,1522.5012,134,1532.5012,138,1522.5012,134,1526.5012"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon403" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="92.5"
-       x2="75.75"
-       y1="1599.5013"
-       y2="1599.5013"
-       id="line405" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="75.75"
-       x2="75.75"
-       y1="1599.5013"
-       y2="1621.5013"
-       id="line407" />
-    <polygon
-       fill="#2C84FA"
-       points="71.75,1611.5013,75.75,1621.5013,79.75,1611.5013,75.75,1615.5013"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon409" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="175.5"
-       x2="192.25"
-       y1="1599.5013"
-       y2="1599.5013"
-       id="line411" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="192.25"
-       x2="192.25"
-       y1="1599.5013"
-       y2="1621.5013"
-       id="line413" />
-    <polygon
-       fill="#2C84FA"
-       points="188.25,1611.5013,192.25,1621.5013,196.25,1611.5013,192.25,1615.5013"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon415" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="192.25"
-       x2="192.25"
-       y1="1671.5015"
-       y2="1676.5015"
-       id="line417" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="192.25"
-       x2="343"
-       y1="1676.5015"
-       y2="1676.5015"
-       id="line419" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="1676.5015"
-       y2="1691.5015"
-       id="line421" />
-    <polygon
-       fill="#2C84FA"
-       points="339,1681.5015,343,1691.5015,347,1681.5015,343,1685.5015"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon423" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="134"
-       x2="134"
-       y1="1567.5013"
-       y2="1587.5013"
-       id="line425" />
-    <polygon
-       fill="#2C84FA"
-       points="130,1577.5013,134,1587.5013,138,1577.5013,134,1581.5013"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon427" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="197"
-       x2="134"
-       y1="1440.501"
-       y2="1440.501"
-       id="line429" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="134"
-       x2="134"
-       y1="1440.501"
-       y2="1462.501"
-       id="line431" />
-    <polygon
-       fill="#2C84FA"
-       points="130,1452.501,134,1462.501,138,1452.501,134,1456.501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon433" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="489"
-       x2="552"
-       y1="1440.501"
-       y2="1440.501"
-       id="line435" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="552"
-       x2="552"
-       y1="1440.501"
-       y2="1462.501"
-       id="line437" />
-    <polygon
-       fill="#2C84FA"
-       points="548,1452.501,552,1462.501,556,1452.501,552,1456.501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon439" />
-    <line
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       x1="343"
-       x2="343"
-       y1="1408.501"
-       y2="1428.501"
-       id="line441" />
-    <polygon
-       fill="#2C84FA"
-       points="339,1418.501,343,1428.501,347,1418.501,343,1422.501"
-       style="stroke:#2C84FA;stroke-width:1.0;"
-       id="polygon443" />
-    <!--MD5=[b4ce585374c7c3c1e691ad0a7301cd58]
-@startuml "Atak fizyczny"
-title "Atak fizyczny"
+      d="M290.5,1675.2513 L290.5,1692.5014 L270.5,1696.5014 L290.5,1700.5014 L290.5,1717.7514 A0,0 0 0 0 290.5,1717.7514 L374.5,1717.7514 A0,0 0 0 0 374.5,1717.7514 L374.5,1685.2513 L364.5,1675.2513 L290.5,1675.2513 A0,0 0 0 0 290.5,1675.2513 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <path d="M364.5,1675.2513 L364.5,1685.2513 L374.5,1685.2513 L364.5,1675.2513 " fill="#FEFFDD"
+      style="stroke:#181818;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing" textLength="63"
+      x="296.5" y="1693.7714">Cybermod</text>
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing" textLength="60"
+      x="296.5" y="1710.0214">activation</text>
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="110" x="160.5" y="1671.5013" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="86"
+      x="170.5" y="1693.9813">apply all critical</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="90"
+      x="170.5" y="1708.9814">damage effects</text>
+    <ellipse cx="520" cy="1522.5009" fill="none" rx="10" ry="10"
+      style="stroke:#E949F5;stroke-width:1.5;" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="513.8128" x2="526.1872" y1="1516.3138"
+      y2="1528.6881" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="526.1872" x2="513.8128" y1="1516.3138"
+      y2="1528.6881" />
+    <ellipse cx="339.75" cy="1751.5015" fill="none" rx="10" ry="10"
+      style="stroke:#E949F5;stroke-width:1.5;" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="333.5628" x2="345.9372" y1="1745.3143"
+      y2="1757.6887" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="345.9372" x2="333.5628" y1="1745.3143"
+      y2="1757.6887" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="229.9998"
+      y2="254.8747" />
+    <polygon fill="#2C84FA" points="335.75,244.8747,339.75,254.8747,343.75,244.8747,339.75,248.8747"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="394.25" x2="434.75" y1="217.9998"
+      y2="217.9998" />
+    <polygon fill="#2C84FA" points="430.75,262.3748,434.75,272.3748,438.75,262.3748,434.75,266.3748"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="434.75" x2="434.75" y1="217.9998"
+      y2="321.8749" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="434.75" x2="351.75" y1="321.8749"
+      y2="321.8749" />
+    <polygon fill="#2C84FA" points="361.75,317.8749,351.75,321.8749,361.75,325.8749,357.75,321.8749"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="289.8749"
+      y2="309.8749" />
+    <polygon fill="#2C84FA" points="335.75,299.8749,339.75,309.8749,343.75,299.8749,339.75,303.8749"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="185.9998"
+      y2="205.9998" />
+    <polygon fill="#2C84FA" points="335.75,195.9998,339.75,205.9998,343.75,195.9998,339.75,199.9998"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="377.8749"
+      y2="402.7498" />
+    <polygon fill="#2C84FA" points="335.75,392.7498,339.75,402.7498,343.75,392.7498,339.75,396.7498"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="404.25" x2="438.75" y1="365.8749"
+      y2="365.8749" />
+    <polygon fill="#2C84FA" points="434.75,417.7499,438.75,427.7499,442.75,417.7499,438.75,421.7499"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="438.75" x2="438.75" y1="365.8749" y2="484.75" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="438.75" x2="351.75" y1="484.75" y2="484.75" />
+    <polygon fill="#2C84FA" points="361.75,480.75,351.75,484.75,361.75,488.75,357.75,484.75"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="452.75" y2="472.75" />
+    <polygon fill="#2C84FA" points="335.75,462.75,339.75,472.75,343.75,462.75,339.75,466.75"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="333.8749"
+      y2="353.8749" />
+    <polygon fill="#2C84FA" points="335.75,343.8749,339.75,353.8749,343.75,343.8749,339.75,347.8749"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="68.4999"
+      y2="150.9997" />
+    <polygon fill="#2C84FA" points="335.75,140.9997,339.75,150.9997,343.75,140.9997,339.75,144.9997"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="396.25" x2="354" y1="747.25" y2="747.25" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="354" x2="354" y1="747.25" y2="796.7498" />
+    <polygon fill="#2C84FA" points="350,786.7498,354,796.7498,358,786.7498,354,790.7498"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="94"
+      x="357" y="776.5649">weakened position</text>
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="497.25" x2="541.5" y1="747.25" y2="747.25" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="541.5" x2="541.5" y1="747.25" y2="796.7498" />
+    <polygon fill="#2C84FA" points="537.5,786.7498,541.5,796.7498,545.5,786.7498,541.5,790.7498"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="52"
+      x="544.5" y="776.5649">advantage</text>
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="354" x2="354" y1="846.75" y2="868.75" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="354" x2="434.75" y1="868.75" y2="868.75" />
+    <polygon fill="#2C84FA" points="424.75,864.75,434.75,868.75,424.75,872.75,428.75,868.75"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="541.5" x2="541.5" y1="846.75" y2="868.75" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="541.5" x2="458.75" y1="868.75" y2="868.75" />
+    <polygon fill="#2C84FA" points="468.75,864.75,458.75,868.75,468.75,872.75,464.75,868.75"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="446.75" x2="446.75" y1="715.25" y2="735.25" />
+    <polygon fill="#2C84FA" points="442.75,725.25,446.75,735.25,450.75,725.25,446.75,729.25"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="242.75" x2="232.75" y1="658.2499"
+      y2="658.2499" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="232.75" x2="232.75" y1="658.2499"
+      y2="680.2499" />
+    <polygon fill="#2C84FA" points="228.75,670.2499,232.75,680.2499,236.75,670.2499,232.75,674.2499"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="436.75" x2="446.75" y1="658.2499"
+      y2="658.2499" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="446.75" x2="446.75" y1="658.2499"
+      y2="680.2499" />
+    <polygon fill="#2C84FA" points="442.75,670.2499,446.75,680.2499,450.75,670.2499,446.75,674.2499"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="232.75" x2="232.75" y1="715.25" y2="898.75" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="232.75" x2="327.75" y1="898.75" y2="898.75" />
+    <polygon fill="#2C84FA" points="317.75,894.75,327.75,898.75,317.75,902.75,321.75,898.75"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="446.75" x2="446.75" y1="880.75" y2="898.75" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="446.75" x2="351.75" y1="898.75" y2="898.75" />
+    <polygon fill="#2C84FA" points="361.75,894.75,351.75,898.75,361.75,902.75,357.75,898.75"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="626.2499"
+      y2="646.2499" />
+    <polygon fill="#2C84FA" points="335.75,636.2499,339.75,646.2499,343.75,636.2499,339.75,640.2499"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="496.75" y2="591.2498" />
+    <polygon fill="#2C84FA" points="335.75,581.2498,339.75,591.2498,343.75,581.2498,339.75,585.2498"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="910.75" y2="942.75" />
+    <polygon fill="#2C84FA" points="335.75,932.75,339.75,942.75,343.75,932.75,339.75,936.75"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="1021.7501"
+      y2="1046.625" />
+    <polygon fill="#2C84FA" points="335.75,1036.625,339.75,1046.625,343.75,1036.625,339.75,1040.625"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="433.75" x2="445.75" y1="1009.7501"
+      y2="1009.7501" />
+    <polygon fill="#2C84FA"
+      points="441.75,1069.1252,445.75,1079.1252,449.75,1069.1252,445.75,1073.1252"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="445.75" x2="445.75" y1="1009.7501"
+      y2="1143.6254" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="445.75" x2="351.75" y1="1143.6254"
+      y2="1143.6254" />
+    <polygon fill="#2C84FA"
+      points="361.75,1139.6254,351.75,1143.6254,361.75,1147.6254,357.75,1143.6254"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="1111.6254"
+      y2="1131.6254" />
+    <polygon fill="#2C84FA"
+      points="335.75,1121.6254,339.75,1131.6254,343.75,1121.6254,339.75,1125.6254"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="977.7501"
+      y2="997.7501" />
+    <polygon fill="#2C84FA" points="335.75,987.7501,339.75,997.7501,343.75,987.7501,339.75,991.7501"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="1155.6254"
+      y2="1175.6254" />
+    <polygon fill="#2C84FA"
+      points="335.75,1165.6254,339.75,1175.6254,343.75,1165.6254,339.75,1169.6254"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="1210.6255"
+      y2="1230.6255" />
+    <polygon fill="#2C84FA"
+      points="335.75,1220.6255,339.75,1230.6255,343.75,1220.6255,339.75,1224.6255"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="1339.6258"
+      y2="1364.5007" />
+    <polygon fill="#2C84FA"
+      points="335.75,1354.5007,339.75,1364.5007,343.75,1354.5007,339.75,1358.5007"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="456.75" x2="636.75" y1="1327.6258"
+      y2="1327.6258" />
+    <polygon fill="#2C84FA"
+      points="632.75,1379.5008,636.75,1389.5008,640.75,1379.5008,636.75,1383.5008"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="636.75" x2="636.75" y1="1327.6258"
+      y2="1446.5009" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="636.75" x2="351.75" y1="1446.5009"
+      y2="1446.5009" />
+    <polygon fill="#2C84FA"
+      points="361.75,1442.5009,351.75,1446.5009,361.75,1450.5009,357.75,1446.5009"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="1414.5009"
+      y2="1434.5009" />
+    <polygon fill="#2C84FA"
+      points="335.75,1424.5009,339.75,1434.5009,343.75,1424.5009,339.75,1428.5009"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="1295.6258"
+      y2="1315.6258" />
+    <polygon fill="#2C84FA"
+      points="335.75,1305.6258,339.75,1315.6258,343.75,1305.6258,339.75,1309.6258"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="159.5" x2="159.5" y1="1562.5012"
+      y2="1582.5012" />
+    <polygon fill="#2C84FA" points="155.5,1572.5012,159.5,1582.5012,163.5,1572.5012,159.5,1576.5012"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="113.5" x2="103.5" y1="1649.5013"
+      y2="1649.5013" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="103.5" x2="103.5" y1="1649.5013"
+      y2="1671.5013" />
+    <polygon fill="#2C84FA" points="99.5,1661.5013,103.5,1671.5013,107.5,1661.5013,103.5,1665.5013"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="205.5" x2="215.5" y1="1649.5013"
+      y2="1649.5013" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="215.5" x2="215.5" y1="1649.5013"
+      y2="1671.5013" />
+    <polygon fill="#2C84FA" points="211.5,1661.5013,215.5,1671.5013,219.5,1661.5013,215.5,1665.5013"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="215.5" x2="215.5" y1="1721.5015"
+      y2="1726.5015" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="215.5" x2="339.75" y1="1726.5015"
+      y2="1726.5015" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="1726.5015"
+      y2="1741.5015" />
+    <polygon fill="#2C84FA"
+      points="335.75,1731.5015,339.75,1741.5015,343.75,1731.5015,339.75,1735.5015"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="159.5" x2="159.5" y1="1617.5013"
+      y2="1637.5013" />
+    <polygon fill="#2C84FA" points="155.5,1627.5013,159.5,1637.5013,163.5,1627.5013,159.5,1631.5013"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="183.25" x2="159.5" y1="1490.5009"
+      y2="1490.5009" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="159.5" x2="159.5" y1="1490.5009"
+      y2="1512.5009" />
+    <polygon fill="#2C84FA" points="155.5,1502.5009,159.5,1512.5009,163.5,1502.5009,159.5,1506.5009"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="496.25" x2="520" y1="1490.5009"
+      y2="1490.5009" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="520" x2="520" y1="1490.5009" y2="1512.5009" />
+    <polygon fill="#2C84FA" points="516,1502.5009,520,1512.5009,524,1502.5009,520,1506.5009"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="339.75" x2="339.75" y1="1458.5009"
+      y2="1478.5009" />
+    <polygon fill="#2C84FA"
+      points="335.75,1468.5009,339.75,1478.5009,343.75,1468.5009,339.75,1472.5009"
+      style="stroke:#2C84FA;stroke-width:1.0;" /><!--MD5=[9149fdb490a79e82f3eff573a0a2dded]
+    @startuml "Physical attack"
+title "Physical attack"
 skinparam defaultFontName Oxanium
-skinparam activity {
+    skinparam activity {
   StartColor #0fff50
   BarColor #2c84fa
   EndColor #e949f5
-  BorderColor #2c84fa
+  BorderColor
+    #2c84fa
   ArrowColor #2c84fa
   FontName Oxanium
 }
 start
-group Określ ilość\nkości obrażeń
-:standardowo jedna kość obrażeń;
-if (wielu atakujących?) then (tak)
-:dodaj kość za każdego atakującego;
-else (nie)
+group Determine \nthe amount
+    of\ndamage dice
+:one damage die as a standard;
+if (many attackers?) then (<color:#f2f230> yes)
+    :add a die for each attacker;
+else (<color:#f2f230> no)
 endif
-if (atak bronią podwójną?) then (tak)
-:dodaj kość za każdego 
-atakującego bronią podwójną;
-else (nie)
+if (dual-weapon attack?) then
+    (<color:#f2f230> yes)
+:add a die for each 
+attacker with a dual weapon;
+else (<color:#f2f230>
+    no)
 endif
 end group
-group Określ rodzaj\nkości obrażeń 
-:Oddzielnie dla każdego atakującego;
-if (atak bez określonej broni?) then (tak)
-:1k4;
-else (nie)
-:kość obrażeń broni;
-switch (modyfikator ataku)
-case ( słabsza pozycja)
-:1k4 lub odpowiednio 
-__zmniejszona__ kość broni;
-case ( przewaga)
-:1k12 lub odpowiednio 
-__zwiększona__ kość broni;
+group Determine \nthe type of\ndamage dice
+:Individually for each
+    attacker;
+if (attack without a defined weapon?) then (<color:#f2f230> yes)
+:1d4;
+else
+    (<color:#f2f230> no)
+:weapon damage dice;
+switch (attack modifier)
+case (<color:#f2f230>
+    weakened position)
+:1d4 or respectively 
+__decreased__ weapon die;
+case (<color:#f2f230>
+    advantage)
+:1d12 or respectively 
+__increased__ weapon die;
 endswitch 
 endif
 end group
-:Wykonaj rzut kośćmi;
+    :Make a dice roll;
 note right
-Aktywacja cybermodów atakującego
+Attacker cybermod activation
 end note
-if (broń ma cechę podmuch?) then (tak)
-:powtórz rzut na obrażenia
-dla każdej postaci 
-w zasięgu rażenia;
+if (The weapon has a
+    blast feature?) then (<color:#f2f230> yes)
+:repeat the damage roll
+for each character 
+within
+    striking range;
 endif
-:Wybierz najwyższy wynik;
-:Od rezultatu rzutu odejmij __aktualną__ 
-wartość pancerza przeciwnika;
-if (OCHR przeciwnika mniejsza lub równa zero?) then (nie)
-:Odejmij punkty obrażeń 
-od __aktualnej__ OCHR przeciwnika;
-note right
-Aktywacja cybermodów
-przeciwnika
+:Select the highest score;
+:Substract victim's __actual__  
+ armor
+    value
+ from the roll result;
+if (Opponent's HP less than or equal to zero?) then
+    (<color:#f2f230> no)
+:Subtract the damage points 
+from the __actual__ HP of the opponent;
+note
+    right
+Oponnent's cybermod
+activation
 endnote
-else (tak)
+else (<color:#f2f230> yes)
 endif 
-if (ilość pozostałych punktów obrażeń większa od zera?) then (tak)
-:odejmij pozostałą ilość punktów obrażeń 
-od BIO przeciwnika;
+if (number
+    of remaining points of damage greater than zero?) then (<color:#f2f230> yes)
+:subtract the
+    remaining amount of damage points 
+from your opponent's BIO;
 note right
- Aktywacja cybermodów przeciwnika
+Oponnent's cybermod
+    activation
 endnote
-:Wykonaj test na obrażenia krytyczne;
-if (test zdany?) then (tak)
+:Perform a critical damage test;
+if (Test passed?) then (<color:#f2f230>
+    yes)
   end
-else (nie)
-  :zastosuj wszystkie efekty 
-  obrażeń krytycznych;
+else (<color:#f2f230> no)
+  :apply all critical
+  damage effects;
   note right
-    Aktywacja
-    cybermodów
+    Cybermod
+    activation
   endnote
 endif
-else (nie)
+else (<color:#f2f230> no)
  end
 endif
 end
 @enduml
-
-PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+    PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
 (GPL source distribution)
-Java Runtime: OpenJDK Runtime Environment
+Java
+    Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
 Default Encoding: UTF-8
-Language: en
+    Language: en
 Country: GB
 -->
-    <text
-       fill="#000000"
-       font-family="Oxanium"
-       font-size="11px"
-       lengthAdjust="spacing"
-       textLength="15"
-       x="421"
-       y="620.94012"
-       id="text69-3"
-       style="fill:#ffff00"
-       transform="translate(2.6993705,350.05234)">nie</text>
   </g>
 </svg>
