@@ -23,7 +23,7 @@ In order to generate an NPC, one should roll:
 - positive and negative character traits
 - at least one goal or desire
 
-## First name (k20 + k20)
+## First name (d20 + d20)
 
 The first roll selects the column, the second selects the position in the column.
 
@@ -50,7 +50,7 @@ The first roll selects the column, the second selects the position in the column
 | 19  | Christine | Jorge     | Michael | Roberto  | Yong     |
 | 20  | Daniel    | Jose      | Miguel  | Rosa     | Yu       |
 
-## Surname (k20+k20)
+## Surname (d20+d20)
 
 The first roll selects the column, the second selects the position in the column.
 
@@ -77,7 +77,7 @@ The first roll selects the column, the second selects the position in the column
 | 19  | Cox      | Hughes    | Murphy   | Ross       | Wright   |
 | 20  | Cruz     | Jackson   | Myers    | Russell    | Young    |
 
-## Occupation (k20+k20)
+## Occupation (d20+d20)
 
 The first roll selects the column, the second selects the position in the column.
 
@@ -104,7 +104,7 @@ The first roll selects the column, the second selects the position in the column
 | 19  | Arms dealer              | Laborer                 | Military pilot           | Cleaner                  | Scrapper                      |
 | 20  | Drug trafficker          | Doctor                  | Singer                   | Sales clerk              | Soldier                       |
 
-## A distinctive appearance element (k20+k20)
+## A distinctive appearance element (d20+d20)
 
 The first result selects a section, the second a subsection from the section.
 
@@ -159,7 +159,7 @@ The first result selects a section, the second a subsection from the section.
 1. Long, soft robe with gold threads
 2. A large, illuminated religious symbol suspended from a thick chain
 3. A shaved head with a drone control implant
-4. Blue Iroquois and eyes with color-changing irises
+4. Blue Mohawk hairstyle and eyes with color-changing irises
 5. Long boots, short shorts, orthalion signal jacket
 6. Sports tracksuit with neon logo of a well-known brand
 7. Khaki clothing stylized as a uniform
@@ -177,7 +177,7 @@ The first result selects a section, the second a subsection from the section.
 19. Victorian styled outfit, cylinder and cane with holographic projector
 20. Hermetic epidemiological suit worn permanently
 
-## Equipment  (k20+k20)
+## Equipment  (d20+d20)
 
 The first result selects a section, the second a subsection from the section.
 
@@ -250,7 +250,7 @@ The first result selects a section, the second a subsection from the section.
 19. Optical variograph embedded in the eye
 20. Sound simulator implanted in the larynx
 
-## Traits  (k20+k20)
+## Traits  (d20+d20)
 
 The first roll selects the column, the second selects the position in the column.
 
@@ -271,13 +271,13 @@ The first roll selects the column, the second selects the position in the column
 | 11  | Gentle                  | Intelligent         | Practical   | Calm            | Understanding |
 | 12  | Benevolent              | Interesting         | Predictive  | Perceptive      | Principled    |
 | 13  | Good-natured            | Intuitive           | Adaptable   | Efficient       | Determined    |
-| 14  | Benevolent              | Contemplative       | Leadership  | Clever          | Capable       |
+| 14  | Goodwilled              | Contemplative       | Leadership  | Clever          | Capable       |
 | 15  | Good judge of character | Critically thinking | Decent      | Sympathetic     | Disciplined   |
 | 16  | Good listener           | Cultural            | Punctual    | Respectful      | Organized     |
 | 17  | Witty                   | Logical             | Rational    | Honest          | Relaxed       |
 | 18  | Dynamic                 | Loyal               | Reflective  | Generous        | Skillful      |
 | 19  | Discreet                | Moral               | Reliable    | Caring          | Balanced      |
-| 20  | Flexible                | Incorruptible       | Independent | Honest          | Adventurous   |
+| 20  | Flexible                | Incorruptible       | Standalone  | Honest          | Adventurous   |
 
 ### Negative
 
@@ -304,7 +304,7 @@ The first roll selects the column, the second selects the position in the column
 | 19  | Egoistic                 | Disloyal         | Pompous       | Coward        | Joker            |
 | 20  | False                    | Irrational       | Workaholic    | Blunt         | Greedy for glory |
 
-## Purpose or desire (k20+k20)
+## Purpose or desire (d20+d20)
 
 The first result selects a section, the second a subsection from the section.
 
