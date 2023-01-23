@@ -7,7 +7,7 @@ nav_order: 3
 
 # Non-Player Characters
 
-<!-- [Wersja generatora online](https://oswida.github.io/cyber/app/dist/#/npc) -->
+[Online version](https://oswida.github.io/cyber/app/dist/#/gen?lang=en&mode=Npc)
 
 A handful of generators to populate the world of Cyber with a variety of characters.
 
@@ -425,6 +425,8 @@ The first result selects a section, the second a subsection from the section.
 
 
 ## Antagonists
+
+[Online version](https://oswida.github.io/cyber/app/dist/#/gen?lang=en&mode=Squad)
 
 A quick generator of antagonists in the form of a squad and examples of individual representatives of a particular type.
 
